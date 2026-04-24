@@ -8,7 +8,7 @@ jobs:
         runs-on: ubuntu-latest
         steps:
 
-            - name: List and read file
+            - name: List and read file new
               run: |
                 echo "My first GitHub Actions job"
                 ls -ltra
